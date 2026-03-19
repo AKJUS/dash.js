@@ -5,7 +5,7 @@
   "devDependencies": {
     "@svta/common-media-library": "^0.17.1",
     "@types/node": "^18.14.0",
-    "copy-webpack-plugin": "^12.0.2",
+    "copy-webpack-plugin": "^14.0.0",
     "dashjs": "file:../..",
     "source-map-loader": "^4.0.1",
     "ts-loader": "^9.4.2",
